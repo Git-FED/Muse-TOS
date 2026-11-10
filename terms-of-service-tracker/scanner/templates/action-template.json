@@ -1,0 +1,10 @@
+{
+  "action": "",
+  "platform": "",
+  "involves": {
+    "link": false,
+    "payment": false,
+    "account": false,
+    "personal_data": false
+  }
+}
